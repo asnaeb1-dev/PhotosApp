@@ -16,3 +16,10 @@ export const GOOGLE_COLORS = {
     green: "#0F9D58"
 }
 
+export const PATHS  = {
+    LOGIN: "/",
+    ALBUMS: "/albums",
+    ABOUT: "/about",
+    DASHBOARD: "/dashboard",
+}
+
